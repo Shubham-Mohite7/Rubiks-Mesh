@@ -2,6 +2,8 @@
 
 A fully interactive 3D Rubik's cube game built with Three.js and TypeScript. Experience the classic puzzle in a modern web environment with smooth animations and intuitive controls.
 
+<img src="https://www.clipartmax.com/png/middle/100-1004291_rubiks-cube-png-hd-rubiks-cube-for-sale.png" alt="Rubik's Cube" width="200">
+
 ![Rubik's Cube](https://img.shields.io/badge/Three.js-135-black) ![TypeScript](https://img.shields.io/badge/TypeScript-4.5-blue) ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Features
